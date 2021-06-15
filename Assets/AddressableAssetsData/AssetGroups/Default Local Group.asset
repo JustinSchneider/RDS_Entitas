@@ -18,31 +18,37 @@ MonoBehaviour:
   m_GUID: 71a5ce158bf714e988d0cc4e3f315d00
   m_SerializeEntries:
   - m_GUID: 37661e2e9170f46e29a0b5f352e1d178
-    m_Address: Assets/Prefabs/Boot Items/CoreController.prefab
+    m_Address: Assets/Prefabs/BootItems/CoreController.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 3d009fa5ad0bd477a8c0a119228c3b52
-    m_Address: Assets/Prefabs/Boot Items/DirectionalLight.prefab
+    m_Address: Assets/Prefabs/BootItems/DirectionalLight.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 49c76016881d74268a5d31977709ba64
-    m_Address: Assets/Prefabs/Boot Items/EventSystem.prefab
+    m_Address: Assets/Prefabs/BootItems/EventSystem.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 9d34e9e79ae7d4c71b210524eb225bba
-    m_Address: Assets/Prefabs/Boot Items/MainCamera.prefab
+    m_Address: Assets/Prefabs/BootItems/MainCamera.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 7471fd64452d645eaa3c1847efb67f12
-    m_Address: Assets/Prefabs/Boot Items/ObjectPools.prefab
+    m_Address: Assets/Prefabs/BootItems/ObjectPools.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0400c88f84a344e568993f0273f95a1f
+    m_Address: Assets/Prefabs/UI/UIRoot.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
