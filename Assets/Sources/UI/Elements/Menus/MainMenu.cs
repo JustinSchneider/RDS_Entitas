@@ -23,12 +23,14 @@ namespace Sources.UI.Elements.Menus
 
         private void OnPlayClicked()
         {
-            gameContext.isIsStartNewGame = true;
+            gameContext.isStartNewGame = true;
+            Debug.Log($"isStartNewGame: {gameContext.isStartNewGame}");
         }
 
         private void OnQuitClicked()
         {
-            gameContext.isIsQuitGame = true;
+            gameContext.isQuitGame = true;
+            Debug.Log($"isQuitGame: {gameContext.isQuitGame}");
         }
     }
 }

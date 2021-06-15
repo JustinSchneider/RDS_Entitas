@@ -33,11 +33,11 @@ namespace Sources.Constants
         {
             {
                 Menu.MainMenu,
-                new MenuConfig("Assets/Prefabs/UI/MainMenu.prefab", Layer.Base, Region.Default, LoadMode.Unload,true)
+                new MenuConfig("Assets/Prefabs/UI/Menus/MainMenu.prefab", Layer.Base, Region.Default, LoadMode.Unload,true)
             },
             {
                 Menu.InGameMenu,
-                new MenuConfig("Assets/Prefabs/UI/InGameMenu.prefab", Layer.Popup, Region.Default, LoadMode.Unload,false)
+                new MenuConfig("Assets/Prefabs/UI/Menus/IngameMenu.prefab", Layer.Popup, Region.Default, LoadMode.Unload,false)
             }
         };
     }

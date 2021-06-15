@@ -8,15 +8,15 @@
 //------------------------------------------------------------------------------
 public partial class GameContext {
 
-    public GameEntity isQuitGameEntity { get { return GetGroup(GameMatcher.IsQuitGame).GetSingleEntity(); } }
+    public GameEntity quitGameEntity { get { return GetGroup(GameMatcher.QuitGame).GetSingleEntity(); } }
 
-    public bool isIsQuitGame {
-        get { return isQuitGameEntity != null; }
+    public bool isQuitGame {
+        get { return quitGameEntity != null; }
         set {
-            var entity = isQuitGameEntity;
+            var entity = quitGameEntity;
             if (value != (entity != null)) {
                 if (value) {
-                    CreateEntity().isIsQuitGame = true;
+                    CreateEntity().isQuitGame = true;
                 } else {
                     entity.Destroy();
                 }
@@ -35,18 +35,18 @@ public partial class GameContext {
 //------------------------------------------------------------------------------
 public partial class GameEntity {
 
-    static readonly IsQuitGameComponent isQuitGameComponent = new IsQuitGameComponent();
+    static readonly QuitGameComponent quitGameComponent = new QuitGameComponent();
 
-    public bool isIsQuitGame {
-        get { return HasComponent(GameComponentsLookup.IsQuitGame); }
+    public bool isQuitGame {
+        get { return HasComponent(GameComponentsLookup.QuitGame); }
         set {
-            if (value != isIsQuitGame) {
-                var index = GameComponentsLookup.IsQuitGame;
+            if (value != isQuitGame) {
+                var index = GameComponentsLookup.QuitGame;
                 if (value) {
                     var componentPool = GetComponentPool(index);
                     var component = componentPool.Count > 0
                             ? componentPool.Pop()
-                            : isQuitGameComponent;
+                            : quitGameComponent;
 
                     AddComponent(index, component);
                 } else {
@@ -67,17 +67,17 @@ public partial class GameEntity {
 //------------------------------------------------------------------------------
 public sealed partial class GameMatcher {
 
-    static Entitas.IMatcher<GameEntity> _matcherIsQuitGame;
+    static Entitas.IMatcher<GameEntity> _matcherQuitGame;
 
-    public static Entitas.IMatcher<GameEntity> IsQuitGame {
+    public static Entitas.IMatcher<GameEntity> QuitGame {
         get {
-            if (_matcherIsQuitGame == null) {
-                var matcher = (Entitas.Matcher<GameEntity>)Entitas.Matcher<GameEntity>.AllOf(GameComponentsLookup.IsQuitGame);
+            if (_matcherQuitGame == null) {
+                var matcher = (Entitas.Matcher<GameEntity>)Entitas.Matcher<GameEntity>.AllOf(GameComponentsLookup.QuitGame);
                 matcher.componentNames = GameComponentsLookup.componentNames;
-                _matcherIsQuitGame = matcher;
+                _matcherQuitGame = matcher;
             }
 
-            return _matcherIsQuitGame;
+            return _matcherQuitGame;
         }
     }
 }

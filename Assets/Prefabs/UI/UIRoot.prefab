@@ -210,7 +210,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6455377627973168332}
   m_Layer: 0
-  m_Name: UI Root
+  m_Name: UIRoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -314,7 +314,6 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
 --- !u!114 &8839032749902545002
 MonoBehaviour:
   m_ObjectHideFlags: 0

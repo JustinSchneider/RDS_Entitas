@@ -2,4 +2,4 @@ using Entitas;
 using Entitas.CodeGeneration.Attributes;
 
 [Game, Unique]
-public class IsQuitGameComponent : IComponent { }
+public class QuitGameComponent : IComponent { }

@@ -9,23 +9,23 @@
 public static class GameComponentsLookup {
 
     public const int CombatStat = 0;
-    public const int IsQuitGame = 1;
-    public const int IsStartNewGame = 2;
-    public const int Player = 3;
+    public const int Player = 1;
+    public const int QuitGame = 2;
+    public const int StartNewGame = 3;
 
     public const int TotalComponents = 4;
 
     public static readonly string[] componentNames = {
         "CombatStat",
-        "IsQuitGame",
-        "IsStartNewGame",
-        "Player"
+        "Player",
+        "QuitGame",
+        "StartNewGame"
     };
 
     public static readonly System.Type[] componentTypes = {
         typeof(CombatStatComponent),
-        typeof(IsQuitGameComponent),
-        typeof(IsStartNewGameComponent),
-        typeof(PlayerComponent)
+        typeof(PlayerComponent),
+        typeof(QuitGameComponent),
+        typeof(StartNewGameComponent)
     };
 }
