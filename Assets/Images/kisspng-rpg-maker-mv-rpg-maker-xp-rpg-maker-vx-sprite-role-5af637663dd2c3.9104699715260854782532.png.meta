@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 1051621aaa9624768b573a8f838b0c43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1459423901243777377
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_0
+  - first:
+      213: -2469928932212182521
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_1
+  - first:
+      213: 3146038585452527259
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_2
+  - first:
+      213: -6917123308935431113
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_3
+  - first:
+      213: 6527154453914772023
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_4
+  - first:
+      213: -4282606310269583772
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_5
+  - first:
+      213: 5603541744796981691
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_6
+  - first:
+      213: -555746598670512982
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_7
+  - first:
+      213: -8947585944949495718
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_8
+  - first:
+      213: 4792919458654320842
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_9
+  - first:
+      213: -2008876961812160265
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_10
+  - first:
+      213: -89718279024367795
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_11
+  - first:
+      213: 1825819517308918778
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_12
+  - first:
+      213: -2375878468480372651
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_13
+  - first:
+      213: 1687930636279107818
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_14
+  - first:
+      213: -4563725091673380996
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_15
+  - first:
+      213: -8331400804286050660
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_16
+  - first:
+      213: 815871987062531272
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_17
+  - first:
+      213: -6360875395192896661
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_18
+  - first:
+      213: -653368920238042756
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_19
+  - first:
+      213: 2111332279528578147
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_20
+  - first:
+      213: 493844839916390205
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_21
+  - first:
+      213: 4345859998794553418
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_22
+  - first:
+      213: -6906309301183459227
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_23
+  - first:
+      213: -8270287433467587471
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_24
+  - first:
+      213: 1127486312992598113
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_25
+  - first:
+      213: 2073796052948009870
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_26
+  - first:
+      213: -2350966713294767275
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_27
+  - first:
+      213: 5771611320571503781
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_28
+  - first:
+      213: 2118906307222214477
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_29
+  - first:
+      213: 1142603590430010781
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_30
+  - first:
+      213: 6089632728615390909
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_31
+  - first:
+      213: -7244976622880022303
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_32
+  - first:
+      213: -4076614758758320738
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_33
+  - first:
+      213: 6801198742562682955
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_34
+  - first:
+      213: 1285430021265050596
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_35
+  - first:
+      213: -3451631838679986347
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_36
+  - first:
+      213: -2506966943880201713
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_37
+  - first:
+      213: -4243786378918674597
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_38
+  - first:
+      213: 3282704909387847419
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_39
+  - first:
+      213: 9140862102805034345
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_40
+  - first:
+      213: 2223217371529562901
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_41
+  - first:
+      213: -271303140538088071
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_42
+  - first:
+      213: -2535315649734535274
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_43
+  - first:
+      213: -911201292158008090
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_44
+  - first:
+      213: 6975896830367388568
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_45
+  - first:
+      213: 5036510429713486362
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_46
+  - first:
+      213: 3860406660184481039
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_47
+  - first:
+      213: -5629446436184376558
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_48
+  - first:
+      213: 6402577637924044745
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_49
+  - first:
+      213: -55740562421207842
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_50
+  - first:
+      213: -4684459056551867288
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_51
+  - first:
+      213: -5764825714186243808
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_52
+  - first:
+      213: -8394305847790756029
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_53
+  - first:
+      213: -1068607959684756261
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_54
+  - first:
+      213: -9105946432939439382
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_55
+  - first:
+      213: -485503427195833765
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_56
+  - first:
+      213: 7208290108731565569
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_57
+  - first:
+      213: 8925851790695070730
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_58
+  - first:
+      213: 2158131166083781068
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_59
+  - first:
+      213: -2613456173819924350
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_60
+  - first:
+      213: 3445969382659248285
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_61
+  - first:
+      213: 7073794721005172070
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_62
+  - first:
+      213: -8454593329307406883
+    second: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_0
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 592
+        width: 69
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e56a5b1b51fbbe0800000000000000
+      internalID: -1459423901243777377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 577
+        width: 85
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702780fe8bc09bdd0800000000000000
+      internalID: -2469928932212182521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 666
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef19fcc69f8ab20800000000000000
+      internalID: 3146038585452527259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 570
+        width: 97
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c345fbff07100a0800000000000000
+      internalID: -6917123308935431113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 568
+        width: 50
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e2bbb46c159a50800000000000000
+      internalID: 6527154453914772023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 568
+        width: 49
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef88340402194c0800000000000000
+      internalID: -4282606310269583772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 568
+        width: 49
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb952be2787c3cd40800000000000000
+      internalID: 5603541744796981691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 595
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaccc19b9679948f0800000000000000
+      internalID: -555746598670512982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 609
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e10a4df9c3d380800000000000000
+      internalID: -8947585944949495718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 592
+        width: 18
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8f52a8aded38240800000000000000
+      internalID: 4792919458654320842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 568
+        width: 69
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f068b5fb090f14e0800000000000000
+      internalID: -2008876961812160265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_11
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 568
+        width: 62
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47a4e853b141cef0800000000000000
+      internalID: -89718279024367795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_12
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 568
+        width: 78
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5c296d2d965910800000000000000
+      internalID: 1825819517308918778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 597
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5507ab0fe1f270fd0800000000000000
+      internalID: -2375878468480372651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 581
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05aec78fbbc6710800000000000000
+      internalID: 1687930636279107818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 455
+        width: 50
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77654275346aa0c0800000000000000
+      internalID: -4563725091673380996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 455
+        width: 49
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e40233c1be06c80800000000000000
+      internalID: -8331400804286050660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 455
+        width: 49
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ed03ef3f825b00800000000000000
+      internalID: 815871987062531272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 455
+        width: 62
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6341098781a9b7a0800000000000000
+      internalID: -6360875395192896661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 533
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715ee1cd64cee6f0800000000000000
+      internalID: -653368920238042756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 455
+        width: 58
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cdd1c9585fc4d10800000000000000
+      internalID: 2111332279528578147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 455
+        width: 62
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374061f34d7ad600800000000000000
+      internalID: 493844839916390205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 533
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489abfb4a89f4c30800000000000000
+      internalID: 4345859998794553418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_23
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 455
+        width: 74
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560dbf1284cd720a0800000000000000
+      internalID: -6906309301183459227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_24
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 455
+        width: 75
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17499c9a5690a3d80800000000000000
+      internalID: -8270287433467587471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_25
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 455
+        width: 74
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168e907f3d2a5af00800000000000000
+      internalID: 1127486312992598113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 476
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c290d58a97cc10800000000000000
+      internalID: 2073796052948009870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_27
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 476
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3c4fea30bf5fd0800000000000000
+      internalID: -2350966713294767275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 341
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a940bae1e81050800000000000000
+      internalID: 5771611320571503781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 341
+        width: 47
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47905a5f0ed76d10800000000000000
+      internalID: 2118906307222214477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 341
+        width: 47
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9daaa669e75bdf00800000000000000
+      internalID: 1142603590430010781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_31
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 341
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe86b1d3b8b28450800000000000000
+      internalID: 6089632728615390909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 341
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e02a33a52ca47b90800000000000000
+      internalID: -7244976622880022303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_33
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 341
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95781ac974fc67c0800000000000000
+      internalID: -4076614758758320738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 341
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483849d836b26e50800000000000000
+      internalID: 6801198742562682955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_35
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 341
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb40293bc3c6d110800000000000000
+      internalID: 1285430021265050596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_36
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 341
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f0d0851275910d0800000000000000
+      internalID: -3451631838679986347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 227
+        width: 80
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0abf56d8d6753dd0800000000000000
+      internalID: -2506966943880201713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 79
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f39edd5ca0b15c0800000000000000
+      internalID: -4243786378918674597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 227
+        width: 79
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf65e7af8b28e8d20800000000000000
+      internalID: 3282704909387847419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_40
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 227
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653682f6addade70800000000000000
+      internalID: 9140862102805034345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_41
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 227
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b4f789b647ade10800000000000000
+      internalID: 2223217371529562901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_42
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 227
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97587c92b332c3cf0800000000000000
+      internalID: -271303140538088071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_43
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 227
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697951869dfb0dcd0800000000000000
+      internalID: -2535315649734535274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_44
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 227
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48b06a043ca53f0800000000000000
+      internalID: -911201292158008090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_45
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 227
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89352d3153d5fc060800000000000000
+      internalID: 6975896830367388568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 113
+        width: 52
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a125f9e1d8745e540800000000000000
+      internalID: 5036510429713486362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d19d4776be29530800000000000000
+      internalID: 3860406660184481039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 113
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3429da4030e1b0800000000000000
+      internalID: -5629446436184376558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 113
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf725b70768ad850800000000000000
+      internalID: 6402577637924044745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 113
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcad49f048f93ff0800000000000000
+      internalID: -55740562421207842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 113
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c4d51be457dfeb0800000000000000
+      internalID: -4684459056551867288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_52
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 113
+        width: 99
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02134e96e893fffa0800000000000000
+      internalID: -5764825714186243808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_53
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 113
+        width: 99
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f927e6e4f618b80800000000000000
+      internalID: -8394305847790756029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_54
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 113
+        width: 99
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc5dee8ba8b21f0800000000000000
+      internalID: -1068607959684756261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 46
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac8e0f6fd21a180800000000000000
+      internalID: -9105946432939439382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 46
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f1cc84352349f0800000000000000
+      internalID: -485503427195833765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 45
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10628e8a9adf80460800000000000000
+      internalID: 7208290108731565569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_58
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cf92699eefedb70800000000000000
+      internalID: 8925851790695070730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_59
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 52
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19f1d7cd833fd10800000000000000
+      internalID: 2158131166083781068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2807963e4732bbbd0800000000000000
+      internalID: -2613456173819924350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_61
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 99
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d64065ea82df20800000000000000
+      internalID: 3445969382659248285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_62
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 99
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fb87f1da2b2260800000000000000
+      internalID: 7073794721005172070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-xp-rpg-maker-vx-sprite-role-5af637663dd2c3.9104699715260854782532_63
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 99
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddae3e49204baa80800000000000000
+      internalID: -8454593329307406883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4b6e81a4c9be54c08b5b75c85ae40972
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

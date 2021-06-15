@@ -11,18 +11,16 @@ namespace Sources.BootSequence
 
 		public static string MAIN_CAMERA = "Main Camera";
 		public static string DIRECTIONAL_LIGHT = "Directional Light";
-		public static string ENVIRONMENTS = "Environments";
 		public static string EVENT_SYSTEM = "EventSystem";
 		public static string OBJECT_POOLS = "ObjectPools";
 		public static string CORE_CONTROLLER = "Core Controller";
 
 		//addressables location paths
-		private const string MAIN_CAMERA_PATH = "Assets/Prefabs/BootItems/Main Camera.prefab";
-		private const string DIRECTIONAL_LIGHT_PATH = "Assets/Prefabs/BootItems/Directional Light.prefab";
-		private const string ENVIRONMENTS_PATH = "Assets/Prefabs/BootItems/Environment.prefab";
+		private const string MAIN_CAMERA_PATH = "Assets/Prefabs/BootItems/MainCamera.prefab";
+		private const string DIRECTIONAL_LIGHT_PATH = "Assets/Prefabs/BootItems/DirectionalLight.prefab";
 		private const string EVENT_SYSTEM_PATH = "Assets/Prefabs/BootItems/EventSystem.prefab";
 		private const string OBJECT_POOL_PATH = "Assets/Prefabs/BootItems/ObjectPools.prefab";
-		private const string CORE_CONTROLLER_PATH = "Assets/Prefabs/BootItems/Core Controller.prefab";
+		private const string CORE_CONTROLLER_PATH = "Assets/Prefabs/BootItems/CoreController.prefab";
 
 		protected override void Awake()
 		{
@@ -32,7 +30,7 @@ namespace Sources.BootSequence
 
 		private void AddLoadingScene()
 		{
-			SceneManager.LoadScene(1, LoadSceneMode.Additive);
+			//SceneManager.LoadScene(1, LoadSceneMode.Additive);
 			createBootItems();
 		}
 
@@ -54,12 +52,6 @@ namespace Sources.BootSequence
 		private void handleDirectionalLightCreated(AsyncOperationHandle<GameObject> dirLight)
 		{
 			dirLight.Result.gameObject.name = DIRECTIONAL_LIGHT;
-			Addressables.InstantiateAsync(ENVIRONMENTS_PATH).Completed += handleEnvironmentsCreated;
-		}
-
-		private void handleEnvironmentsCreated(AsyncOperationHandle<GameObject> environments)
-		{
-			environments.Result.gameObject.name = ENVIRONMENTS;
 			Addressables.InstantiateAsync(EVENT_SYSTEM_PATH).Completed += handleEventsSystemCreated;
 		}
 
