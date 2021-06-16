@@ -15,7 +15,8 @@ namespace Sources.Constants
         public enum Menu
         {
             MainMenu,
-            InGameMenu
+            InGameMenu,
+            ToolbarMenu
         }
         
         public enum Layer
@@ -26,7 +27,8 @@ namespace Sources.Constants
 
         public enum Region
         {
-            Default
+            Default,
+            TopBar
         }
         
         public static readonly Dictionary<Menu, MenuConfig> MenuAddresses = new Dictionary<Menu, MenuConfig>
@@ -38,6 +40,10 @@ namespace Sources.Constants
             {
                 Menu.InGameMenu,
                 new MenuConfig("Assets/Prefabs/UI/Menus/IngameMenu.prefab", Layer.Popup, Region.Default, LoadMode.Unload,false)
+            },
+            {
+                Menu.ToolbarMenu,
+                new MenuConfig("Assets/Prefabs/UI/Menus/ToolbarMenu.prefab", Layer.Base, Region.TopBar, LoadMode.DontUnload,false)
             }
         };
     }

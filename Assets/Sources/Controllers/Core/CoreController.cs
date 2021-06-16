@@ -9,6 +9,8 @@ using Sources.Systems.Services;
 using Sources.Systems.UI.Framework;
 using UnityEngine;
 using Sources.BootSequence;
+using Sources.Systems.Cube;
+using Sources.Systems.Toolbar;
 using UnityEngine.SceneManagement;
 
 namespace Sources.Controllers.Core
@@ -34,6 +36,7 @@ namespace Sources.Controllers.Core
 
 			//Find shouldnt be used, but just trying to get access
 			mainCamera = GameObject.Find(BootSequence.BootSequence.MAIN_CAMERA).GetComponent<Camera>();
+			contexts.meta.SetMainCameraGameObject(mainCamera.gameObject);
 		}
 
 		private void InitializeServices()
@@ -54,7 +57,9 @@ namespace Sources.Controllers.Core
 			SetupVisualDebugging();
 
 			systems = new Entitas.Systems().Add(new ServicesSystems(this.contexts, this.services))
-				.Add(new UiSystems(this.contexts));
+				.Add(new UiSystems(this.contexts))
+				.Add(new ToolbarSystems(this.contexts))
+				.Add(new CubeSystems(this.contexts));
 		}
 
 

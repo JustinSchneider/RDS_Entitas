@@ -21,15 +21,17 @@ public partial class Contexts : Entitas.IContexts {
 
     static Contexts _sharedInstance;
 
+    public CubeContext cube { get; set; }
     public GameContext game { get; set; }
     public InputContext input { get; set; }
     public MenuContext menu { get; set; }
     public MetaContext meta { get; set; }
     public UiContext ui { get; set; }
 
-    public Entitas.IContext[] allContexts { get { return new Entitas.IContext [] { game, input, menu, meta, ui }; } }
+    public Entitas.IContext[] allContexts { get { return new Entitas.IContext [] { cube, game, input, menu, meta, ui }; } }
 
     public Contexts() {
+        cube = new CubeContext();
         game = new GameContext();
         input = new InputContext();
         menu = new MenuContext();
@@ -136,6 +138,7 @@ public partial class Contexts {
     [Entitas.CodeGeneration.Attributes.PostConstructor]
     public void InitializeContextObservers() {
         try {
+            CreateContextObserver(cube);
             CreateContextObserver(game);
             CreateContextObserver(input);
             CreateContextObserver(menu);
